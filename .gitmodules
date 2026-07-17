@@ -1,0 +1,3 @@
+[submodule "MicroDSP-STM32"]
+	path = MicroDSP-STM32
+	url = https://github.com/Pasqalup/MicroDSP-STM32.git
