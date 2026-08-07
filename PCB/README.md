@@ -26,7 +26,8 @@
 | 1uF ±10% 25V Ceramic Capacitor X5R 0402 | 20 | https://www.lcsc.com/product-detail/C52923.html |
 | 10kΩ ±5% 62.5mW 0402 Thick Film Resistor | 100 | https://www.lcsc.com/product-detail/C2906885.html |
 | 5.1kΩ ±5% 62.5mW 0402 Thick Film Resistor | 100 | https://www.lcsc.com/product-detail/C2906948.html |
-
-
+# Assembly
+Solder all components to their places one side at a time. Use hot air to heat only one side at a time.
+MCU should be programmable over USB
 # Schematic
 [![Schematic](../assets/SCH_Schematic1_1-P1_2026-07-17.png)](./SCH_Schematic2_2026-07-22.pdf)
